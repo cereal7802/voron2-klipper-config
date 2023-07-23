@@ -3,3 +3,4 @@ database/*
 gcodes/*
 systemd/*
 comms/*
+.moonraker.uuid
