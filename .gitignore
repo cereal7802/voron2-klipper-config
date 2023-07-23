@@ -2,3 +2,4 @@ logs/*
 database/*
 gcodes/*
 systemd/*
+comms/*
