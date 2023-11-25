@@ -8,3 +8,5 @@ comms/*
 moonraker.asvc
 *.swp
 *.bkp
+.*
+!.gitignore
