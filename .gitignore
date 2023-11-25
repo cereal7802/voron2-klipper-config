@@ -5,3 +5,4 @@ gcodes/*
 systemd/*
 comms/*
 .moonraker.uuid
+moonraker.asvc
